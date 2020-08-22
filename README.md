@@ -1,5 +1,6 @@
-# Hi, i'm kel!
-はじめまして。よろしくお願いします！
+# $ whoami
+
+Hi, I'm kel.
 
 [![Hits](https://gbadge.herokuapp.com/badge?title=visitors&value=1K)](https://github.com/michaelhenry/gbadge)
 
