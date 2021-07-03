@@ -7,3 +7,10 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelhenry&count_private=true&show_icons=true)
 
+## Tools that I'm using
+- [XCode](https://developer.apple.com/xcode/)
+- [VSCode](https://code.visualstudio.com/)
+- [iTerm](https://iterm2.com/)
+- [zsh](https://ohmyz.sh/)
+- [powerlevel10k:zsh theme](https://github.com/romkatv/powerlevel10k)
+- [homebrew](https://brew.sh/)
