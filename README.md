@@ -14,3 +14,6 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [zsh](https://ohmyz.sh/)
 - [powerlevel10k:zsh theme](https://github.com/romkatv/powerlevel10k)
 - [homebrew](https://brew.sh/)
+- [Proxyman](https://proxyman.io/)
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [Chrome](https://www.google.com.au/chrome/)
