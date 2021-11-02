@@ -17,3 +17,4 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [👾 SourceTree](https://www.sourcetreeapp.com/) 
 - [🌎 Chrome](https://www.google.com.au/chrome/)
 - [⌨️ Karabiner](https://github.com/pqrs-org/Karabiner-Elements)
+- [👽 xcinfo](https://github.com/xcodereleases/xcinfo)
