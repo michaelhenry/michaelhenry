@@ -12,7 +12,7 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [📝 VSCode](https://code.visualstudio.com/)
 - [🎮 iTerm](https://iterm2.com/)
 - [💯 zsh](https://ohmyz.sh/) (with [powerlevel10k:zsh theme](https://github.com/romkatv/powerlevel10k))
-- [✅ Homebrew](https://brew.sh/)
+- [💼 Homebrew](https://brew.sh/)
 - [🐞 Proxyman](https://proxyman.io/)
 - [👾 SourceTree](https://www.sourcetreeapp.com/) 
 - [🌎 Chrome](https://www.google.com.au/chrome/)
