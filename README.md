@@ -18,5 +18,3 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [🌎 Chrome](https://www.google.com.au/chrome/)
 - [⌨️ Karabiner](https://github.com/pqrs-org/Karabiner-Elements)
 - [👽 xcinfo](https://github.com/xcodereleases/xcinfo)
-
-![](https://komarev.com/ghpvc/?username=michaelhenry&style=flat-square)
