@@ -20,4 +20,4 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [👽 xcinfo](https://github.com/xcodereleases/xcinfo)
 
 ## My other OS Projects.
-- [create-report](https://github.com/michaelhenry/create-report) - A GHActions library that can generate report from either markdown or an html string or file.
+- [michaelhenry/create-report](https://github.com/michaelhenry/create-report) - A GHActions library that can generate report from either markdown or an html string or file.
