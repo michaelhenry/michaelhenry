@@ -23,4 +23,4 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [michaelhenry/swifty-code-coverage](https://github.com/michaelhenry/swifty-code-coverage) - A github action for generating code coverage report for your ios/macos/spm project.
 - [michaelhenry/create-report](https://github.com/michaelhenry/create-report) - A GHActions library that can generate report from either markdown/html string/file.
 - [michaelhenry/deploy-to-cocoapods-github-action](https://github.com/michaelhenry/deploy-to-cocoapods-github-action) - A GHActions library that deploy projects to cocoapods.
-- [SimpleXMLParser](https://github.com/michaelhenry/SimpleXMLParser) - A swift library for parsing XML built with `Concurrency`
+- [michaelhenry/SimpleXMLParser](https://github.com/michaelhenry/SimpleXMLParser) - A swift library for parsing XML built with `Concurrency`
