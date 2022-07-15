@@ -11,6 +11,7 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [💻 XCode](https://developer.apple.com/xcode/)
 - [📝 VSCode](https://code.visualstudio.com/)
 - [🎮 iTerm](https://iterm2.com/)
+- [🎮 Vundle](https://github.com/VundleVim/Vundle.vim)
 - [💯 zsh](https://ohmyz.sh/) (with [powerlevel10k:zsh theme](https://github.com/romkatv/powerlevel10k))
 - [💼 Homebrew](https://brew.sh/)
 - [🐞 Proxyman](https://proxyman.io/)
