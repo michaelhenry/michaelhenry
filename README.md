@@ -19,7 +19,6 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [🌎 Chrome](https://www.google.com.au/chrome/)
 - [⌨️ Karabiner](https://github.com/pqrs-org/Karabiner-Elements)
 - [👽 xcinfo](https://github.com/xcodereleases/xcinfo)
-- [ƛ michaelhenry/go-gin-lambda](https://github.com/michaelhenry/go-gin-lambda)
 
 ## My other OS Projects.
 - [envject](https://github.com/michaelhenry/envject) - A command-line tool for injecting environment variables or secrets to any file that has to be compiled especially in iOS.
@@ -29,3 +28,4 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [michaelhenry/deploy-to-cocoapods-github-action](https://github.com/michaelhenry/deploy-to-cocoapods-github-action) - A GHActions library that deploy projects to cocoapods.
 - [michaelhenry/SimpleXMLParser](https://github.com/michaelhenry/SimpleXMLParser) - A swift library for parsing XML built with `Concurrency`
 - [michaelhenry/Prettier.swift](https://github.com/michaelhenry/Prettier.swift) - Prettier.io wrapper for swift. An opinionated code formatter.
+- [ƛ michaelhenry/go-gin-lambda](https://github.com/michaelhenry/go-gin-lambda)
