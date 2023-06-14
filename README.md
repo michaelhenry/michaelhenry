@@ -19,6 +19,7 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [🌎 Chrome](https://www.google.com.au/chrome/)
 - [⌨️ Karabiner](https://github.com/pqrs-org/Karabiner-Elements)
 - [👽 xcinfo](https://github.com/xcodereleases/xcinfo)
+- [📊 stats](https://github.com/exelban/stats)
 
 ## My other OS Projects.
 - [envject](https://github.com/michaelhenry/envject) - A command-line tool for injecting environment variables or secrets to any file that has to be compiled especially in iOS.
