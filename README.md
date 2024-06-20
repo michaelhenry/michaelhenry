@@ -7,6 +7,8 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelhenry&count_private=true&show_icons=true)
 
+[![](https://visitcount.itsvg.in/api?id=michaelhenry&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 ## Tools that I'm using
 - [💻 XCode](https://developer.apple.com/xcode/)
 - [📝 VSCode](https://code.visualstudio.com/)
