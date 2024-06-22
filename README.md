@@ -7,7 +7,6 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelhenry&count_private=true&show_icons=true)
 
-[![](https://visitcount.itsvg.in/api?id=michaelhenry&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 ## Tools that I'm using
 - [💻 XCode](https://developer.apple.com/xcode/)
@@ -32,3 +31,6 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [michaelhenry/SimpleXMLParser](https://github.com/michaelhenry/SimpleXMLParser) - A swift library for parsing XML built with `Concurrency`
 - [michaelhenry/Prettier.swift](https://github.com/michaelhenry/Prettier.swift) - Prettier.io wrapper for swift. An opinionated code formatter.
 - [ƛ michaelhenry/go-gin-lambda](https://github.com/michaelhenry/go-gin-lambda)
+
+
+[![](https://visitcount.itsvg.in/api?id=michaelhenry&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
