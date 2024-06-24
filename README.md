@@ -23,7 +23,7 @@ I'm kel, an iOS and python app developer. よろしくおねがいします 🙇
 - [📊 stats](https://github.com/exelban/stats)
 
 ## My other OS Projects.
-- [envject](https://github.com/michaelhenry/envject) - A command-line tool for injecting environment variables or secrets to any file that has to be compiled especially in iOS.
+- [envject](https://github.com/michaelhenry/envject) - A command-line tool for injecting environment variables or secrets to any file that has to be compiled. (like for example in iOS, with string obfuscation support).
 - [michaelhenry/🛠Configs](https://github.com/michaelhenry/XConfigs) A quick, simple and stylish solution for your remote and dev configurations. 
 - [michaelhenry/swifty-code-coverage](https://github.com/michaelhenry/swifty-code-coverage) - A github action for generating code coverage report for your ios/macos/spm project.
 - [michaelhenry/create-report](https://github.com/michaelhenry/create-report) - A GHActions library that can generate report from either markdown/html string/file.
